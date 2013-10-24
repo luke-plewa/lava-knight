@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/ModelLoader/src/edu/union/graphics
+END
+Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/19/ModelLoader/src/edu/union/graphics/Model.java
+END
+IntBufferMesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/18/ModelLoader/src/edu/union/graphics/IntBufferMesh.java
+END
+ObjLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/18/ModelLoader/src/edu/union/graphics/ObjLoader.java
+END
+Edge.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/18/ModelLoader/src/edu/union/graphics/Edge.java
+END
+IntMesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/18/ModelLoader/src/edu/union/graphics/IntMesh.java
+END
+LittleEndianInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/18/ModelLoader/src/edu/union/graphics/LittleEndianInputStream.java
+END
+MD2Loader.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/18/ModelLoader/src/edu/union/graphics/MD2Loader.java
+END
+AbstractModelLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/18/ModelLoader/src/edu/union/graphics/AbstractModelLoader.java
+END
+Animation.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/19/ModelLoader/src/edu/union/graphics/Animation.java
+END
+FloatMesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/18/ModelLoader/src/edu/union/graphics/FloatMesh.java
+END
+MeshFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/18/ModelLoader/src/edu/union/graphics/MeshFactory.java
+END
+MatrixUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/ModelLoader/src/edu/union/graphics/MatrixUtils.java
+END
+FixedPointMesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/18/ModelLoader/src/edu/union/graphics/FixedPointMesh.java
+END
+ModelLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/18/ModelLoader/src/edu/union/graphics/ModelLoader.java
+END
+FixedPointUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/22/ModelLoader/src/edu/union/graphics/FixedPointUtils.java
+END
+Frame.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/18/ModelLoader/src/edu/union/graphics/Frame.java
+END
+Mesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/18/ModelLoader/src/edu/union/graphics/Mesh.java
+END
